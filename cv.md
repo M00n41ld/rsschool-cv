@@ -1,4 +1,4 @@
-![Maria Reznik]( img/me.jpg "That's me")
+![Maria Reznik]( ./img/me800.jpg "That's me")
 
 # Maria Reznik 
 
