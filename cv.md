@@ -1,4 +1,4 @@
-![Maria Reznik]( ./img/me.jpg "That's me")
+![Maria Reznik]( img/me.jpg "That's me")
 
 # Maria Reznik 
 
@@ -7,8 +7,11 @@
 ### Contact information: 
 
 **Phone**: +995 595 211635
+
 **E-mail**: maryreznik82@gmail.com
+
 **Telegram**: @maryreznik
+
 **Discord**: Мария Резник#1529
 
 ### About me:
