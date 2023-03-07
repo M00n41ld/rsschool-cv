@@ -1,4 +1,4 @@
-![Maria Reznik]( ./img/me800.jpg "That's me")
+![Maria Reznik]( ./img/me100.jpg "That's me")
 
 # Maria Reznik 
 
@@ -31,19 +31,21 @@
 
 ### Code Example: 
 
-Here is an example of React component written on Typescript
+Here is an example of code I wrote on CodeWars
 
 ```
-interface UserItemProps {
-    user: IUser;
-}
-
-const UserItem: FC<UserItemProps> = ({ user}) => {
-    return (
-        <div key={user.id} style={{ padding: 15, border: '1px solid gray' }}>
-            {user.id}. {user.name} проживает в городе {user.address.city}
-        </div>
-    )
+function findOdd(A) {
+  let number;
+  const b = new Set(A);
+  const final = [...b].map((x) => {
+    const result = A.filter((num) => num === x);
+    if (result.length % 2 !== 0) {
+      number = x;
+      return number;
+    }
+    return number;
+  });
+  return number;
 }
 
 ```
